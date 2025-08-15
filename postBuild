@@ -1,2 +1,4 @@
-#!/bin/bash
-echo "ffmpeg and curl are installed!"
+#!/usr/bin/env bash
+echo "ffmpeg and curl installed!"
+ffmpeg -version
+curl --version
